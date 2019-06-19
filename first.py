@@ -1,0 +1,10 @@
+print("Hello World!")
+print("My name is Ariel")
+print("ham sandwich")
+print("hi")
+print("Hello")
+print("My name is Ariel")
+print("I am 13 years old")
+celsius=eval(input("Enter a temperature in degrees celsius: "))
+fahrenheit = 9/5 * celsius + 32
+print("The temperature is", fahrenheit , "degrees Fahrenheit.")
